@@ -1,6 +1,6 @@
 {
-  "name": "Heroku-v2ray",
-  "description": "将v2ray部署在Heroku上",
+  "name": "greenet",
+  "description": "greenet",
   "keywords": [
     "v2ray VMess VLESS"
   ],
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/DaoChen6/Heroku-v2ray",
-  "repository": "https://github.com/DaoChen6/Heroku-v2ray",
+  "website": "https://github.com/handgan/ervrhbrhrvrrh",
+  "repository": "https://github.com/handgan/ervrhbrhrvrrh",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
